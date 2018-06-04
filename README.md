@@ -53,7 +53,8 @@
 [FAQ](https://github.com/bigdatafestival/bigdatafestival/blob/master/FAQ.md)
 
 ## 문의
-* ☎ 02)6977-0757
+제 2회 미래에셋대우 빅데이터페스티벌 관련 문의는 아래 이메일을 통해 할 수 있습니다.
+* mail_B71@miraeasset.com
 
 <img src="https://user-images.githubusercontent.com/39890154/40893778-4c309a58-67df-11e8-982a-be9e80c6af4b.JPG" width="60%"></img>
 
