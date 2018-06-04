@@ -57,6 +57,6 @@
 ## 문의
 * ☎ 02)6977-0757
 
+<img src="https://user-images.githubusercontent.com/39890154/40893778-4c309a58-67df-11e8-982a-be9e80c6af4b.JPG" width="100%"></img>
 
-![bigdata](https://user-images.githubusercontent.com/39890154/40893778-4c309a58-67df-11e8-982a-be9e80c6af4b.JPG)
 
