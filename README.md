@@ -48,6 +48,10 @@
 
 (상세 내역은 설명회 내용 참고 및 문의 요망 ☏ 02-6977-0757)
 
+## FAQ
+자주 문의하는 내용을 확인할 수 있습니다.
+[FAQ](https://github.com/bigdatafestival/bigdatafestival/blob/master/FAQ.md)
+
 ## 문의
 * ☎ 02)6977-0757
 
