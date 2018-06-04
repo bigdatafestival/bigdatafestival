@@ -1,5 +1,4 @@
-![_02_bn_02_pc_thumb_180511](https://user-images.githubusercontent.com/39890154/40894180-c221fe34-67e2-11e8-8034-7d784d0d8a43.jpg)
-
+<img src="https://user-images.githubusercontent.com/39890154/40894180-c221fe34-67e2-11e8-8034-7d784d0d8a43.jpg" width="90%"></img>
 # 제2회 미래에셋대우 
 
 제2회 미래에셋대우 빅데이터페스티벌에 참여하신 여러분을 환영합니다.
