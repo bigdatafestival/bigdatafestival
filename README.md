@@ -56,6 +56,10 @@
 제 2회 미래에셋대우 빅데이터페스티벌 관련 문의는 아래 이메일을 통해 할 수 있습니다.
 * mail_B71@miraeasset.com
 
+## 참고할 만한 사이트
+Financial price data reader : https://github.com/FinanceData/FinanceDataReader
+FinanceDataReader 사용자 안내서 : https://financedata.github.io/posts/finance-data-reader-users-guide.html
+
 ##
 <img src="https://user-images.githubusercontent.com/39890154/40893778-4c309a58-67df-11e8-982a-be9e80c6af4b.JPG" width="60%"></img>
 
