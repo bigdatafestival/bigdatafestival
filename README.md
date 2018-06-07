@@ -57,7 +57,7 @@
 * mail_B71@miraeasset.com
 
 ## 참고할 만한 사이트
-Financial price data reader : https://github.com/FinanceData/FinanceDataReader
+Financial price data reader : https://github.com/FinanceData/FinanceDataReader  
 FinanceDataReader 사용자 안내서 : https://financedata.github.io/posts/finance-data-reader-users-guide.html
 
 ##
