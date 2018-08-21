@@ -49,7 +49,7 @@
 (상세 내역은 설명회 내용 참고 및 문의 요망 ※ mail_B71@miraeasset.com)
 
 ## 1차 심사결과
-<img src="https://user-images.githubusercontent.com/39890154/44384403-089c5100-a557-11e8-9c91-06441703593a.jpg" width="60%"></img>
+<img src="https://user-images.githubusercontent.com/39890154/44384403-089c5100-a557-11e8-9c91-06441703593a.jpg"></img>  
 본선진출팀은 축하드립니다^^
 
 ## FAQ
