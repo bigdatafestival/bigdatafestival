@@ -41,6 +41,8 @@
 * 우수 참가자 해외 금융 시장 
 더 커진 특전과 금융 데이터를 다루고 서비스를 개발할 수 있는 실제 경험을 얻을 수 있는 기회를 놓치지 마세요!
 (상세 내역은 설명회 내용 참고 및 홈페이지 공지 참조 요망)
+PC : https://www.miraeassetdaewoo.com/hki/hki7110/n03_1.do
+모바일 : https://www.miraeassetdaewoo.com/mobilew/fest/mwBiFestguide.jsp 
 ## FAQ
 자주 문의하는 내용을 확인할 수 있습니다.  
 [FAQ](https://github.com/bigdatafestival/bigdatafestival/blob/master/FAQ.md)
