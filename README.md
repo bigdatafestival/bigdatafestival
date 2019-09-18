@@ -44,6 +44,7 @@
 (상세 내역은 설명회 내용 참고 및 홈페이지 공지 참조 요망)
 
 PC : https://www.miraeassetdaewoo.com/hki/hki7110/n03_1.do
+
 모바일 : https://www.miraeassetdaewoo.com/mobilew/fest/mwBiFestguide.jsp 
 ## FAQ
 자주 문의하는 내용을 확인할 수 있습니다.  
